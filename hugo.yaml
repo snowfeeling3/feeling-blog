@@ -2,7 +2,7 @@ baseURL: https://example.org/
 languageCode: en-us
 title: Feeling
 
-theme: ["PaperMod"]
+theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
