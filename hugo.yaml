@@ -63,8 +63,8 @@ params:
   ShowPageNums: true
   ShowToc: true
   homeInfoParams:
-    Title: Hi, there
-    Content: Can be
+    Title: welcome to my blog,is it ok?
+    Content: What's not here at the moment
 
   socialIcons:
     - name: github
